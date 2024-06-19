@@ -1,0 +1,35 @@
+
+
+NET "clk" LOC = P125;
+NET "gate" LOC = P114;
+NET "lcd[0]" LOC = P3;
+NET "lcd[1]" LOC = P4;
+NET "lcd[2]" LOC = P5;
+NET "lcd[3]" LOC = P6;
+NET "lcd[4]" LOC = P7;
+NET "lcd[5]" LOC = P10;
+NET "lcd[6]" LOC = P12;
+NET "lcd[7]" LOC = P13;
+NET "lcd[8]" LOC = P15;
+NET "lcd[9]" LOC = P19;
+NET "lcd[10]" LOC = P20;
+NET "lcd[11]" LOC = P21;
+
+
+NET "lcd[11]" IOSTANDARD = LVCMOS33;
+NET "lcd[10]" IOSTANDARD = LVCMOS33;
+NET "lcd[9]" IOSTANDARD = LVCMOS33;
+NET "lcd[8]" IOSTANDARD = LVCMOS33;
+NET "lcd[7]" IOSTANDARD = LVCMOS33;
+NET "lcd[6]" IOSTANDARD = LVCMOS33;
+NET "lcd[5]" IOSTANDARD = LVCMOS33;
+NET "lcd[4]" IOSTANDARD = LVCMOS33;
+NET "lcd[3]" IOSTANDARD = LVCMOS33;
+NET "lcd[2]" IOSTANDARD = LVCMOS33;
+NET "lcd[1]" IOSTANDARD = LVCMOS33;
+NET "lcd[0]" IOSTANDARD = LVCMOS33;
+NET "clk" IOSTANDARD = LVCMOS33;
+
+# PlanAhead Generated IO constraints 
+
+NET "gate" IOSTANDARD = LVCMOS33;

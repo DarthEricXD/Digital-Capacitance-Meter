@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "E:/ISE PROJECT/NE555FINAL/tb_top_isim_beh.exe" -prj "E:/ISE PROJECT/NE555FINAL/tb_top_beh.prj" "work.tb_top" "work.glbl" 
