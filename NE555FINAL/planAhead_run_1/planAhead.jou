@@ -1,0 +1,57 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Tue Nov 01 15:59:54 2022
+# Process ID: 14916
+# Log file: E:/ISE PROJECT/NE555FINAL/planAhead_run_1/planAhead.log
+# Journal file: E:/ISE PROJECT/NE555FINAL/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source {E:/ISE PROJECT/NE555FINAL/pa.fromHdl.tcl}
+update_compile_order -fileset sim_1
+startgroup
+set_property package_pin P125 [get_ports clk]
+endgroup
+startgroup
+set_property package_pin P114 [get_ports gate]
+endgroup
+startgroup
+set_property package_pin P3 [get_ports {lcd[0]}]
+endgroup
+startgroup
+set_property package_pin P4 [get_ports {lcd[1]}]
+endgroup
+startgroup
+set_property package_pin P5 [get_ports {lcd[2]}]
+endgroup
+startgroup
+set_property package_pin P6 [get_ports {lcd[3]}]
+endgroup
+startgroup
+set_property package_pin P7 [get_ports {lcd[4]}]
+endgroup
+startgroup
+set_property package_pin P10 [get_ports {lcd[5]}]
+endgroup
+set_property package_pin "" [get_ports [list  {lcd[7]}]]
+startgroup
+set_property package_pin P12 [get_ports {lcd[6]}]
+endgroup
+startgroup
+set_property package_pin P13 [get_ports {lcd[7]}]
+endgroup
+startgroup
+set_property package_pin P15 [get_ports {lcd[8]}]
+endgroup
+startgroup
+set_property package_pin P19 [get_ports {lcd[9]}]
+endgroup
+startgroup
+set_property package_pin P20 [get_ports {lcd[10]}]
+endgroup
+startgroup
+set_property package_pin P21 [get_ports {lcd[11]}]
+endgroup
+set_property iostandard LVCMOS33 [get_ports [list {lcd[11]} {lcd[10]} {lcd[9]} {lcd[8]} {lcd[7]} {lcd[6]} {lcd[5]} {lcd[4]} {lcd[3]} {lcd[2]} {lcd[1]} {lcd[0]}]]
+set_property iostandard LVCMOS33 [get_ports [list clk]]
+save_constraints

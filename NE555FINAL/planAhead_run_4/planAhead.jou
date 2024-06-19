@@ -1,0 +1,11 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Wed Nov 02 08:28:08 2022
+# Process ID: 2280
+# Log file: E:/ISE PROJECT/NE555FINAL/planAhead_run_4/planAhead.log
+# Journal file: E:/ISE PROJECT/NE555FINAL/planAhead_run_4/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source {E:/ISE PROJECT/NE555FINAL/pa.fromHdl.tcl}
+update_compile_order -fileset sim_1
