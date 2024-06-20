@@ -1,6 +1,6 @@
 # Digital Circuit and Logic Design A: Digital Capacitance Meter
 
-Digital Circuit and Logic Design A is a course I attended at Nanjing University of Posts and Telecommunications from October 24, 2022, to November 4, 2022 where I developed a digital capacitance meter.
+Digital Circuit and Logic Design A is a course I attended at Nanjing University of Posts and Telecommunications from October 24, 2022, to November 4, 2022 where I built a digital capacitance meter.
 
 ## Overall Scheme Design
 System Block Diagram:
