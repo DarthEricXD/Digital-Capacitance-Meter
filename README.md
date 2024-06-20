@@ -17,10 +17,6 @@ The system flowchart is as follows:
   <img src="https://github.com/DarthEricXD/Simple-Capacitance-Tester/blob/main/pics/system%20flowchart.png" alt="image">
 </p>
 
-## Unit Circuit Design
-1. 1MHz oscillator
-- A 1MHz oscillator is used to provide counter standard counting signals, and the accuracy of its frequency directly affects the testing accuracy. Generally, high-precision oscillators need to be constructed using crystal oscillators. The following are the external packaging of crystal oscillator circuits and crystal oscillators:
-
 
 ## ISE schematic diagram:
 <p align="center">
