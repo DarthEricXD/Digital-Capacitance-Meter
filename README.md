@@ -1,7 +1,11 @@
 # Simple Capacitance Tester
 System Block Diagram:
-There are many design methods for capacitance measuring instruments, including measurement frequency method, measurement period method, measurement phase method, measurement integration method, measurement square wave method, and capacitance bridge method.
-This design adopts the method of measuring cycle to measure capacitance, and the schematic diagram is as follows:
+- There are many design methods for capacitance measuring instruments, including measurement frequency method, measurement period method, measurement phase method, measurement integration method, measurement square wave method, and capacitance bridge method.
+- This design adopts the method of measuring cycle to measure capacitance, and the schematic diagram is as follows:
+
+- A multi harmonic oscillator composed of the measured capacitor C and NE555. The input pulse period (or width) of the oscillator is directly proportional to the capacity of the tested capacitor. This period is used as the counting gate of the digital counter to count a standard frequency (1MHz). By selecting the timing resistor reasonably in the multi harmonic oscillator, the counting value of the counter can be directly used as the capacity value of the capacitor, which is displayed after floating-point conversion
+
+The system flowchart is as follows:
 
 
 
