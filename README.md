@@ -1,4 +1,9 @@
 # Simple Capacitance Tester
+System Block Diagram:
+There are many design methods for capacitance measuring instruments, including measurement frequency method, measurement period method, measurement phase method, measurement integration method, measurement square wave method, and capacitance bridge method.
+This design adopts the method of measuring cycle to measure capacitance, and the schematic diagram is as follows:
+
+
 
 ## ISE schematic diagram:
 <p align="center">
