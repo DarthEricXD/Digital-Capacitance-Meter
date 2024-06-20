@@ -20,7 +20,7 @@ The system flowchart is as follows:
 </p>
 
 
-## ISE schematic diagram:
+## ISE Schematic Diagram:
 <p align="center">
   <img src="https://github.com/DarthEricXD/Simple-Capacitance-Tester/blob/main/pics/1%20ISE%20schematic%20diagram.png" alt="image">
 </p>
