@@ -1,7 +1,5 @@
 # Digital Circuit and Logic Design A: Digital Capacitance Meter
 
-Digital Circuit and Logic Design A is a course I attended at Nanjing University of Posts and Telecommunications from October 24, 2022, to November 4, 2022 where I built a digital capacitance meter.
-
 ## Overall Scheme Design
 System Block Diagram:
 - There are many design methods for capacitance measuring instruments, including measurement frequency method, measurement period method, measurement phase method, measurement integration method, measurement square wave method, and capacitance bridge method.
